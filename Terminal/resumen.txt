@@ -1,0 +1,5 @@
+ls -R te permite ver los elementos dentro de un directorio en forma recursiva
+mkdir crea un directorio
+cd permite moverte entre directorios
+touch se pueden crear archivos
+mv puede usarse para mover un archivo o directorios, como tambien renombrarlos

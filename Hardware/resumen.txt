@@ -1,0 +1,3 @@
+CPU -que es la unidad de procesamineto
+Memoria RAM - que es la memoria de corto plazo, o sea almacena de forma temporal todos los programas y sus procesos
+Disco duro o SSD - es la unidad de almacenamiento de una computadora
