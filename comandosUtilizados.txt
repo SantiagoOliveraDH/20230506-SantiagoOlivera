@@ -1,0 +1,25 @@
+    1  touch comandos.txt
+    2  touch main.js
+    3  touch index.html
+    4  git add .
+    5  git commit -m "commit 01 de Santiago Olivera"
+    8  git config --local user.name "SantiagoOliveraDH"
+    9  git config --local user.email "walkeruru@gmail.com"
+   10  git commit -m "commit 01 de Santiago Olivera"
+   11  git push -u origin main
+   12  git branch feature01
+   13  git checkout feature01
+   14  mkdir Terminal Hardware
+   15  touch Hardware/resumen.txt
+   16  touch Terminal/resumen.txt
+   17  git add .
+   18  git commit -m "commit 02 de Santiago Olivera"
+   19  git push -u origin feature01
+   20  git branch feature02
+   21  git checkout feature02
+   22  git add .
+   23  git commit -m "commit 03 de Santiago Olivera"
+   24  git push -u origin feature02
+   25  git checkout main
+   26  mv comandos.txt comandosUtilizados.txt
+   27  history
